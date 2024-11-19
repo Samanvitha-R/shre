@@ -1,0 +1,2 @@
+print("saman")
+print("sanj")
